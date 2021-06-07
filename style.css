@@ -1,0 +1,62 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto", sans-serif;
+}
+#teams {
+  position: absolute;
+  top: 4rem;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.team {
+  cursor: pointer;
+  margin: 1rem;
+  padding: 0.5rem;
+  color: #202124;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 300px;
+  font-size: 10px;
+  border-radius: 10px;
+  box-shadow: 0 2px 2px 0 rgb(0 0 0 / 16%), 0 0 0 1px rgb(0 0 0 / 8%);
+}
+.team img {
+  width: 150px;
+ 
+}
+
+#header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #19398a;
+  padding-left: 2rem;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 200;
+  height: 4rem;
+}
+
+#header img {
+  width: 110px;
+  height: 4rem;
+  background-color: white;
+}
+#search-bar{
+  margin-right: 3rem;
+  color: white;
+}
+#search-value{
+  outline: none;
+  border: none;
+}
+a{
+  text-decoration: none;
+}
