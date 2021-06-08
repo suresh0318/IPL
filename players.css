@@ -22,7 +22,11 @@
     justify-content: center;
     border: 1px solid lightgreen;
     border-radius: 10px;
-    background-color: lightgrey;
+    background-color: #037ffc;
     padding: 0.5rem;
     margin: 0.3rem;
+    color:white;
+}
+a{
+    text-decoration: none;
 }

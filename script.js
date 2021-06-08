@@ -11,17 +11,29 @@ function appendData() {
     div.appendChild(img);
 
     var ref = document.createElement("a");
-    ref.href = "./players.html?"+ "id="+teamsInfo[i].id 
-    
-
-
+    ref.href = "./players.html?" + "id=" + teamsInfo[i].id;
 
     var h1 = document.createElement("h1");
     h1.innerText = teamsInfo[i].fullName;
     div.appendChild(h1);
-    
-    ref.appendChild(div)
+
+    ref.appendChild(div);
     teams.appendChild(ref);
   }
 }
 appendData();
+
+playerSearch = document.getElementsByClassName("player-search")[0];
+playerSearch.addEventListener("click", search);
+function search() {
+  searchBar = document.getElementById("search-val");
+  var inputVal = searchBar.value.toLowerCase();
+  for (i = 0; i < playersInfo.length; i++) {
+    if (
+      inputVal == playersInfo[i].key.toLowerCase() ||
+      inputVal == playersInfo[i].fullName.toLowerCase()
+    ) {
+      location.href = `./players.html?id=${playersInfo[i].id}`;
+    }
+  }
+}

@@ -138,7 +138,7 @@ var playersData = [
       "https://whiteandblack.in/wp-content/uploads/2021/04/Chennai-Super-Kings-logo-design-IPL-300x300.jpg",
     players: [
       {
-        id: "1",
+        id: "0",
         name: "Suresh Raina",
         photos:
           "http://moneyball.insidesport.co/img/singleplayer/Suresh-Raina1.jpg",
@@ -150,7 +150,7 @@ var playersData = [
         price: "11 Crore",
       },
       {
-        id: "2",
+        id: "1",
         name: "Ravindra Jadeja",
         photos:
           "https://s.ndtvimg.com/images/entities/300/ravindra-jadeja-855.png",
@@ -162,7 +162,7 @@ var playersData = [
         price: "7 crores",
       },
       {
-        id: "3",
+        id: "2",
         name: "MS Dhoni",
         photos:
           "https://img.jagranjosh.com/imported/images/E/GK/MS-Dhoni-Biography.jpg",
@@ -174,7 +174,7 @@ var playersData = [
         price: "15 Crores",
       },
       {
-        id: "4",
+        id: "3",
         name: "Faf du Plessis",
         photos:
           "https://c.ndtvimg.com/2019-05/doq9roeg_faf-du-plessis_625x300_10_May_19.jpg",
@@ -186,7 +186,7 @@ var playersData = [
         price: "1.6 crore",
       },
       {
-        id: "5",
+        id: "4",
         name: "Ambati Rayudu",
         photos:
           "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201805/Rayudu_0.jpeg?NBQCtg8Wa6ApITuWu.EOmmD464YKlrjB",
@@ -198,7 +198,7 @@ var playersData = [
         price: "2.20 crore",
       },
       {
-        id: "6",
+        id: "5",
         name: "Ruturaj Gaikwad ",
         photos: "https://etimg.etb2bimg.com/photo/79058878.cms ",
         description:
@@ -209,7 +209,7 @@ var playersData = [
         price: "20 lakhs",
       },
       {
-        id: "7",
+        id: "6",
         name: "Dwayne Bravo",
         photos:
           "https://images.hindustantimes.com/rf/image_size_960x540/HT/p2/2018/04/27/Pictures/cricket-t20-ind-ipl-hyderabad-chennai_5bbc8f5a-4a33-11e8-8699-4e17514b3033.jpg ",
@@ -221,7 +221,7 @@ var playersData = [
         price: "6.40 crore",
       },
       {
-        id: "8",
+        id: "7",
         name: "Sam Curran",
         photos:
           "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/311400/311416.6.jpg",
@@ -233,7 +233,7 @@ var playersData = [
         price: "5.50 crore",
       },
       {
-        id: "9",
+        id: "8",
         name: "Shardul Thakur",
         photos:
           "http://moneyball.insidesport.co/img/singleplayer/ShardulThakur1.jpg",
@@ -245,7 +245,7 @@ var playersData = [
         price: "2.60 crore",
       },
       {
-        id: "10",
+        id: "9",
         name: "Deepak Chahar",
         photos: "https://images.indianexpress.com/2018/04/chahar-fb2.jpg",
         description:
@@ -267,7 +267,7 @@ var playersData = [
       "https://whiteandblack.in/wp-content/uploads/2021/04/KKR-logo-design-IPL-300x300.jpg",
     players: [
       {
-        id: "1",
+        id: "0",
         name: "Eoin Morgan",
         photos:
           "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/9/18/w1200X800/Eoin_Morgan_PTI.jpg",
@@ -279,7 +279,7 @@ var playersData = [
         price: "5.25 crore",
       },
       {
-        id: "2",
+        id: "1",
         name: "Nitish Rana",
         photos:
           "https://c.ndtvimg.com/2021-04/6nciiak_nitish-rana-kkr-instagram_625x300_03_April_21.jpg",
@@ -291,7 +291,7 @@ var playersData = [
         price: "5.5 crore",
       },
       {
-        id: "3",
+        id: "2",
         name: "Shubman Gill",
         photos:
           "https://imgk.timesnownews.com/story/1556937514-Shubman-Gill-fifty-AP.png?tr=w-1200,h-900",
@@ -303,7 +303,7 @@ var playersData = [
         price: "2 crore",
       },
       {
-        id: "4",
+        id: "3",
         name: "Gurkeerat Singh Mann",
         photos:
           "https://www.kkr.in/static-assets/waf-images/c2/79/a3/16-9/388-218/AHObKPy1OA.png",
@@ -315,7 +315,7 @@ var playersData = [
         price: "1 crore",
       },
       {
-        id: "5",
+        id: "4",
         name: "Rahul Tripathi",
         photos:
           "https://www.deccanherald.com/sites/dh/files/styles/article_detail/public/articleimages/2020/10/18/pti03-10-2020000324b-903865-1603042805.jpg?itok=FH9boVMU",
@@ -327,7 +327,7 @@ var playersData = [
         price: "1.4 crore",
       },
       {
-        id: "6",
+        id: "5",
         name: "Dinesh Karthik",
         photos:
           "https://c.ndtvimg.com/2020-09/ps1n9vcc_dinesh-karthik-kkr-bcciipl_625x300_22_September_20.jpg",
@@ -339,7 +339,7 @@ var playersData = [
         price: "4.4 crore",
       },
       {
-        id: "7",
+        id: "6",
         name: "Sunil Narine",
         photos:
           "https://s01.sgp1.digitaloceanspaces.com/large/874109-84667-yafcrnikuk-1521182036.jpg",
@@ -351,7 +351,7 @@ var playersData = [
         price: "4.4 crore",
       },
       {
-        id: "8",
+        id: "7",
         name: "Andre Dwayne Russell",
         photos:
           "https://s01.sgp1.digitaloceanspaces.com/large/874109-84667-yafcrnikuk-1521182036.jpg",
@@ -363,7 +363,7 @@ var playersData = [
         price: "2.4 crore",
       },
       {
-        id: "9 ",
+        id: "8",
         name: "Harry Gurney",
 
         photos:
@@ -376,7 +376,7 @@ var playersData = [
         price: "1 crore",
       },
       {
-        id: "10",
+        id: "9",
         name: "Pat Cummins",
         photos:
           "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/05/pjimage-2020-05-10t110238-1589088801.jpg",
@@ -398,7 +398,7 @@ var playersData = [
       "https://whiteandblack.in/wp-content/uploads/2021/04/SunRisers-Hyderabad-logo-design-IPL-300x300.jpg",
     players: [
       {
-        id: "1",
+        id: "0",
         name: "David Warner",
         photos:
           "https://c.ndtvimg.com/2019-04/2oc84lcg_david-warner-ipl-bye-afp_625x300_30_April_19.jpg",
@@ -410,7 +410,7 @@ var playersData = [
         price: "12.50 crore",
       },
       {
-        id: "2",
+        id: "1",
         name: "Manish Pandey",
         photos:
           "https://cricketaddictor.gumlet.io/wp-content/uploads/2021/04/Manish-Pandey-2.jpg?compress=true&quality=80&w=480&dpr=2.6",
@@ -422,7 +422,7 @@ var playersData = [
         price: "11 crore",
       },
       {
-        id: "3",
+        id: "2",
         name: "Kane Williamson",
         photos:
           "https://static.toiimg.com/thumb/msid-77882458,width-1200,height-900,resizemode-4/.jpg",
@@ -434,7 +434,7 @@ var playersData = [
         price: "3 crore",
       },
       {
-        id: "4",
+        id: "3",
         name: "Jonny Bairstow",
         photos:
           "https://c.ndtvimg.com/2020-10/k8iholco_jonny-bairstow-ipl-bcci_625x300_08_October_20.jpg",
@@ -446,7 +446,7 @@ var playersData = [
         price: "2.20 crore",
       },
       {
-        id: "5",
+        id: "4",
         name: "Priyam Garg",
         photos: "https://images.indianexpress.com/2020/10/Garg.png",
         description:
@@ -457,7 +457,7 @@ var playersData = [
         price: "1.90 crore",
       },
       {
-        id: "6",
+        id: "5",
         name: "Rashid Khan",
         photos: "https://images.indianexpress.com/2020/10/rashid-srh-1.jpg",
         description:
@@ -468,7 +468,7 @@ var playersData = [
         price: "9 crore",
       },
       {
-        id: "7",
+        id: "6",
         name: "T Natarajan",
         photos:
           "https://www.thenewsminute.com/sites/default/files/styles/news_detail/public/T_Nattu_PTI_1200_05122020-compressed.jpg?itok=Ew8O8qiC",
@@ -480,7 +480,7 @@ var playersData = [
         price: "40 lakhs",
       },
       {
-        id: "8",
+        id: "7",
         name: "Sandeep Sharma",
         photos: "https://images.indianexpress.com/2019/04/sandeep-sharma.jpg",
         description:
@@ -491,7 +491,7 @@ var playersData = [
         price: "3 crore",
       },
       {
-        id: "9 ",
+        id: "8",
         name: "Shahbaz Nadeem",
         photos:
           "https://sportstar.thehindu.com/cricket/ipl/article26687287.ece/ALTERNATES/LANDSCAPE_1200/Nadeemsportzpicsbccijpg",
@@ -503,7 +503,7 @@ var playersData = [
         price: "3.20 crore",
       },
       {
-        id: "10",
+        id: "9",
         name: "Bhuvneshwar Kumar",
         photos:
           "https://cricketaddictor.gumlet.io/wp-content/uploads/2021/03/Bhuvneshwar-Kumar.jpg?compress=true&quality=80&w=1300&dpr=2.6",
@@ -517,7 +517,7 @@ var playersData = [
     ],
   },
   {
-    id: 6,
+    id: 5,
     fullName: "Rajasthan Royals",
     key: "RR",
     championshipsWon: 1,
@@ -525,7 +525,7 @@ var playersData = [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSab_D-YnwBHkTwmT6nJerTgVm89iOvMaMA9g&usqp=CAU",
     players: [
       {
-        id: "1",
+        id: "0",
         name: "Jos Buttler",
         photos:
           "https://c.ndtvimg.com/2020-09/vo4upbj_jos-buttler-rajasthan-royals-bcciipl_625x300_20_September_20.jpg ",
@@ -537,7 +537,7 @@ var playersData = [
         price: "4.40 crore",
       },
       {
-        id: "2 ",
+        id: "1",
         name: "Manan Vohra",
         photos: "https://cricdaddy.com/wp-content/uploads/2020/08/MANAN.png",
         description:
@@ -548,7 +548,7 @@ var playersData = [
         price: "20 Lakhs ",
       },
       {
-        id: "3",
+        id: "2",
         name: "Ben Stokes",
         photos:
           "https://c.ndtvimg.com/2021-04/7drf6gk8_ben-stokes-bcciipl_625x300_13_April_21.jpg?q=60",
@@ -560,7 +560,7 @@ var playersData = [
         price: "12.50 crore",
       },
       {
-        id: "4",
+        id: "3",
         name: "Sanju Samson",
         photos:
           "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/10/26/w900X450/sanju_samson_IPL_.jpg",
@@ -572,7 +572,7 @@ var playersData = [
         price: "8 crore",
       },
       {
-        id: "5",
+        id: "4",
         name: "Yashasvi Jaiswal",
         photos:
           "https://cdn.insidesport.co/wp-content/uploads/2021/04/25104042/9S6A9454.jpg ",
@@ -584,7 +584,7 @@ var playersData = [
         price: "2.40 crore",
       },
       {
-        id: "6",
+        id: "5",
         name: "Chris Morris",
         photos:
           "https://images.news18.com/ibnlive/uploads/924x616/jpg/2021/05/1620299925_chris-morris-1200.jpg?impolicy=website&width=924&height=616",
@@ -596,7 +596,7 @@ var playersData = [
         price: "16.25 crore",
       },
       {
-        id: "7",
+        id: "6",
         name: "Mustafizur Rahman",
         photos: "https://static.iplt20.com/players/210/1594.png",
         description:
@@ -607,7 +607,7 @@ var playersData = [
         price: "1 crore",
       },
       {
-        id: "8",
+        id: "7",
         name: "Chetan Sakariya",
         photos:
           "https://resize.indiatvnews.com/en/resize/newbucket/715_-/2021/05/chetan-sakariya-1620545611.jpg",
@@ -619,7 +619,7 @@ var playersData = [
         price: "1.20 crore",
       },
       {
-        id: "9",
+        id: "8",
         name: "Jaydev Unadkat",
         photos:
           "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2019/05/05/820312-jaydev-unadkat-pti.jpg",
@@ -631,7 +631,7 @@ var playersData = [
         price: "3 crore",
       },
       {
-        id: "10",
+        id: "9",
         name: "Jofra Archer",
         photos:
           "https://static.toiimg.com/thumb/msid-82217388,width-1200,height-900,resizemode-4/.jpg",
@@ -653,7 +653,7 @@ var playersData = [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkx0ab4uh3m2jdJCbMWYM0AbUeApNeO9v_8w&usqp=CAU",
     players: [
       {
-        id: "1",
+        id: "0",
         name: "Shikhar Dhawan",
         photos:
           "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202011/Shikhar_Dawan_PTI_Picture_1200x768.jpeg?xw5_BX86eZVtMm5woS6WviJg3e8.HaXu&size=770:433 ",
@@ -665,7 +665,7 @@ var playersData = [
         price: "5.20 crore",
       },
       {
-        id: "2",
+        id: "1",
         name: "Prithvi Shaw ",
         photos:
           "https://static.toiimg.com/thumb/msid-78323865,imgsize-164782,width-400,resizemode-4/78323865.jpg ",
@@ -677,7 +677,7 @@ var playersData = [
         price: "1.20 crore",
       },
       {
-        id: "3",
+        id: "2",
         name: "Ajinkya Rahane",
         photos:
           "https://c.ndtvimg.com/2020-11/fkn4k6oo_ajinkya-rahane-batting-bcciipl_625x300_03_November_20.jpg?q=60",
@@ -689,7 +689,7 @@ var playersData = [
         price: "5.25 crore",
       },
       {
-        id: "4",
+        id: "3",
         name: "Shimron Hetmyer",
         photos:
           "https://cdn-wp.thesportsrush.com/2021/04/9f5d3b73-hetmyer-not-playing-today.jpg",
@@ -701,7 +701,7 @@ var playersData = [
         price: "3 crore",
       },
       {
-        id: "5",
+        id: "4",
         name: "Axar Patel",
         photos:
           "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2021/04/03/967716-ezgif.com-gif-maker-2021-04-03t140642.922.jpg",
@@ -713,7 +713,7 @@ var playersData = [
         price: "4.4 crore",
       },
       {
-        id: "6",
+        id: "5",
         name: "Marcus Stoinis",
         photos:
           "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2020/09/21/926338-stoinis-dc.jpg",
@@ -725,7 +725,7 @@ var playersData = [
         price: "6 crore",
       },
       {
-        id: "7",
+        id: "6",
         name: "Kagiso Rabada",
         photos:
           "https://cdn.insidesport.co/wp-content/uploads/2020/10/22175347/Kagiso-Rabada-1.jpg",
@@ -737,7 +737,7 @@ var playersData = [
         price: "3 crore",
       },
       {
-        id: "8",
+        id: "7",
         name: "Anrich Nortje",
         photos:
           "https://static.toiimg.com/thumb/msid-78474981,imgsize-182908,width-400,resizemode-4/78474981.jpg",
@@ -749,7 +749,7 @@ var playersData = [
         price: "30 lakhs",
       },
       {
-        id: "9",
+        id: "8",
         name: "Ishant Sharma",
         photos:
           "https://crickettimes.com/wp-content/uploads/2020/10/Ishant-Sharma-IPL.jpg",
@@ -761,7 +761,7 @@ var playersData = [
         price: "1.10 crore",
       },
       {
-        id: "10",
+        id: "9",
         name: "Amit Mishra",
         photos:
           "https://admin.cricplex.com/news_images/5f39c2b5c629abb9c8520b20f9d9d0fa.jpg ",
@@ -783,7 +783,7 @@ var playersData = [
       "https://whiteandblack.in/wp-content/uploads/2021/04/Punjab-Kings-logo-design-IPL-300x300.jpg",
     players: [
       {
-        id: "1",
+        id: "0",
         name: "Chris Gayle",
         photos:
           "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202010/chrisgaylekxipvrr_0_1200x768.jpeg?p0XjqH._B5rSDkDWT0gR9MFMlFWQ60jE&size=770:433",
@@ -795,7 +795,7 @@ var playersData = [
         price: "4.20 crore",
       },
       {
-        id: "2",
+        id: "1",
         name: "Nicholas Pooran",
         photos:
           "https://c.ndtvimg.com/2020-10/17nfssts_nicholas-pooran-kxip-bcciipl_625x300_10_October_20.jpg?q=60",
@@ -807,7 +807,7 @@ var playersData = [
         price: "4 crore",
       },
       {
-        id: "3",
+        id: "2",
         name: "Mayank Agarwal",
         photos:
           "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2020/09/21/926344-mayank-agarwal-kxip-89.jpg",
@@ -819,7 +819,7 @@ var playersData = [
         price: "1 crore",
       },
       {
-        id: "4",
+        id: "3",
         name: "Sarfaraz Khan",
         photos:
           "https://ss.thgim.com/cricket/ipl/article26686635.ece/alternates/FREE_380/SARFARAZAFP",
@@ -831,7 +831,7 @@ var playersData = [
         price: "25lakhs",
       },
       {
-        id: "5",
+        id: "4",
         name: "KL Rahul",
         photos:
           "https://imgk.timesnownews.com/story/KL-RAHUL-KINGS-XI-PUNJAB-IPL-2020-PTI.jpg?tr=w-600,h-450",
@@ -843,7 +843,7 @@ var playersData = [
         price: "11 crores",
       },
       {
-        id: "6",
+        id: "5",
         name: "Prabhsimran Singh",
         photos:
           "https://www.espncricinfo.com/db/PICTURES/CMS/310200/310295.jpg",
@@ -855,7 +855,7 @@ var playersData = [
         price: "55 lakhs",
       },
       {
-        id: "7",
+        id: "6",
         name: "Mandeep Singh",
         photos:
           "https://static.toiimg.com/thumb/msid-78850044,imgsize-718411,width-400,resizemode-4/78850044.jpg",
@@ -868,7 +868,7 @@ var playersData = [
         championship: 1,
       },
       {
-        id: "8",
+        id: "7",
         name: "Mohammed Shami",
         photos: "https://imgk.timesnownews.com/story/shami_ipl.png",
         description:
@@ -879,7 +879,7 @@ var playersData = [
         price: "4.8 crore",
       },
       {
-        id: "9",
+        id: "8",
         name: "Murugan Ashwin",
         photos:
           "https://static.toiimg.com/photo/imgsize-247309,msid-78947879/78947879.jpg ",
@@ -891,7 +891,7 @@ var playersData = [
         price: "20 lakhs",
       },
       {
-        id: "10",
+        id: "9",
         name: "Ravi Bishnoi",
         photos:
           "https://static.toiimg.com/thumb/msid-77970234,width-1200,height-900,resizemode-4/.jpg",
@@ -914,7 +914,7 @@ var playersData = [
       "https://whiteandblack.in/wp-content/uploads/2021/04/RCB-logo-design-IPL-300x300.jpg",
     players: [
       {
-        id: "1",
+        id: "0",
         name: "Virat Kholi",
         photos:
           "https://cdn.insidesport.co/wp-content/uploads/2021/03/21001855/IPL-Season-12-1.jpg",
@@ -926,7 +926,7 @@ var playersData = [
         price: "17 crore",
       },
       {
-        id: "2",
+        id: "1",
         name: "Devdutt Padikkal",
         photos:
           "https://c.ndtvimg.com/2021-04/h3b6vqfo_devdutt-padikkal-bcciipl_625x300_23_April_21.jpg",
@@ -938,7 +938,7 @@ var playersData = [
         price: "20 lakhs",
       },
       {
-        id: "3",
+        id: "2",
         name: "Suyash Prabhudessai",
         photos:
           "https://ipl2021.org/wp-content/uploads/2021/03/SUYASH-1024x576.png",
@@ -950,7 +950,7 @@ var playersData = [
         price: "20 lakhs",
       },
       {
-        id: "4",
+        id: "3",
         name: "KS Bharat ",
         photos:
           "https://cdn.insidesport.co/wp-content/uploads/2021/03/10151433/2021-03-10-3.jpg",
@@ -962,7 +962,7 @@ var playersData = [
         price: "20 lakhs",
       },
       {
-        id: "5",
+        id: "4",
         name: "AB de Villiers",
         photos:
           "https://c.ndtvimg.com/2020-11/klu7eku_ab-de-villiers-sad-rcb-bcciipl_625x300_07_November_20.jpg?q=60",
@@ -974,7 +974,7 @@ var playersData = [
         price: "11 crore",
       },
       {
-        id: "6",
+        id: "5",
         name: "Mohammed Azharuddeen",
         photos:
           "https://www.ncrpost.com/wp-content/uploads/2021/02/f12c889dd44fa4b952a569753231182d_original.jpg",
@@ -985,7 +985,7 @@ var playersData = [
         price: "20lakh",
       },
       {
-        id: "7",
+        id: "6",
         name: "Washington Sundar",
         photos:
           "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2020/09/29/928030-washington-sundar-rcb-ipl.jpg",
@@ -997,7 +997,7 @@ var playersData = [
         price: "3.2 crore",
       },
       {
-        id: "8",
+        id: "7",
         name: "Shahbaz Ahmed",
         photos:
           "https://images.thequint.com/thequint%2F2021-04%2Fecf384de-dab8-41ff-86cc-a20b35ad11c1%2FMatch06__00785.JPG?rect=0%2C0%2C2974%2C1673&auto=format%2Ccompress&fmt=webp&w=480&dpr=2.6",
@@ -1009,7 +1009,7 @@ var playersData = [
         price: "20 lakhs",
       },
       {
-        id: "9",
+        id: "8",
         name: "Mohammed Siraj",
         photos:
           "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/310800/310867.4.jpg",
@@ -1021,7 +1021,7 @@ var playersData = [
         price: "20 lakhs",
       },
       {
-        id: "10",
+        id: "9",
         name: "Yuzvendra Chahal",
         photos:
           "https://cdn.insidesport.co/wp-content/uploads/2021/04/09205113/2020-10-03-5.jpg",

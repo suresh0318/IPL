@@ -2,7 +2,7 @@ var teamsInfo = JSON.parse(localStorage.getItem("team-data"));
 var playersInfo = JSON.parse(localStorage.getItem("players-data"));
 
 var playersdata = document.getElementById("players-data");
-var teamId = window.location.search.split("=")[1] ;
+var teamId = window.location.search.split("=")[1]-1 ;
 
 function appendData() {
   var div = document.createElement("div");
@@ -33,7 +33,7 @@ function appendData() {
 }
 
 
-var requiredData = teamsInfo[teamId - 1];
+// var requiredData = teamsInfo[teamId - 1];
 function appendData1() {
   
   let players = playersInfo[teamId].players;
@@ -46,7 +46,7 @@ function appendData1() {
     playersdata.appendChild(div1);
 
     var ref = document.createElement("a");
-    ref.href =  "./players.html?" + requiredData.id + "=" + requiredData.players[i].id;
+    ref.href =  "./playersdetails.html?" + "tid=" + teamId +"&"+ "pid=" + players[i].id ;
     ref.appendChild(div1);
     playersdata.appendChild(ref);
   }

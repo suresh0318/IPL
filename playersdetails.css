@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: none;
+}
+img {
+  width: 300px;
+  border-radius: 1rem;
+  margin-bottom: 1rem;
+}
+#player {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.playerInfo {
+    background-color: #037ffc;
+    color: white;
+  box-sizing: border-box;
+  margin: 1.5rem 4rem;
+  height: 80vh;
+  padding: 3rem;
+  box-shadow: 0 2px 2px 0 rgb(0 0 0 / 16%), 0 0 0 1px rgb(0 0 0 / 8%);
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+h3 {
+  text-align: center;
+}
+h2{
+    padding: 0.5rem;
+}
