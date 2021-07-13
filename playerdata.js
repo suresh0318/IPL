@@ -1,3 +1,4 @@
+
 var playersData = [
   {
     id: 1,
@@ -1035,4 +1036,9 @@ var playersData = [
     ],
   },
 ];
-localStorage.setItem("players-data", JSON.stringify(playersData));
+
+
+window.onload = function(){
+  localStorage.setItem("players-data", JSON.stringify(playersData));
+}
+

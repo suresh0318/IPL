@@ -37,3 +37,10 @@ function search() {
     }
   }
 }
+
+
+var btn = document.getElementById("add-player") 
+btn.addEventListener("click",add);
+function add(){
+  location.href = "./addPlayer.html"
+}

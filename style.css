@@ -65,3 +65,12 @@ a{
   outline: none;
   font-size: 20px;
 }
+button{
+  border: none;
+  color: #19398a;
+  background-color: white;
+  cursor: pointer;
+  border-radius: 0.7rem;
+  padding: 0.5rem;
+  font-weight: bold;
+}

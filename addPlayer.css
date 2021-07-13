@@ -1,0 +1,42 @@
+#add-player {
+  padding-top: 120px;
+  padding-bottom: 100px;
+}
+
+#player-add-form {
+  width: 60%;
+  margin: 0 auto;
+}
+
+#player-add-form h1 {
+  font-size: 32px;
+  
+ text-align: center;
+  text-transform: uppercase;
+}
+
+.input-data {
+  display: block;
+
+  width: 70%;
+  margin: 25px auto;
+  font-size: 20px;
+  padding: 5px;
+  border: 2px solid black;
+  border-radius: 4px;
+  align-items: center;
+}
+
+#submit-btn {
+  background-color: #19398a;
+  color: white;
+  font-weight: 600;
+  display: block;
+  width: 70%;
+  margin: 10px auto 0;
+  font-size: 16px;
+  padding: 10px;
+  border: 2px solid black;
+  border-radius: 4px;
+  cursor: pointer;
+}
