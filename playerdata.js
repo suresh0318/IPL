@@ -1038,7 +1038,6 @@ var playersData = [
 ];
 
 
-window.onload = function(){
   localStorage.setItem("players-data", JSON.stringify(playersData));
-}
+
 

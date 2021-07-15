@@ -1,4 +1,4 @@
-function calling () {
+$(document).ready(function () {
   var teamsInfo = JSON.parse(localStorage.getItem("players-data"));
 
   $("#submit-btn").click(function (e) {
@@ -20,7 +20,7 @@ function calling () {
     var requiredInfo = teamsInfo[keyNumber];
 
     var playerObj = {
-      id: requiredInfo.players.length,
+      id: requiredInfo.players.length ,
       name: playerName,
       team: teamKey,
       role: playerRole,
@@ -29,12 +29,10 @@ function calling () {
       photos: playerPhoto,
     };
 
-    teamsInfo = teamsInfo[keyNumber].players.push(playerObj);
-
+    teamsInfo[keyNumber].players.push(playerObj);
     localStorage.setItem("players-data", JSON.stringify(teamsInfo));
-    console.log(teamsInfo);
-    // alert("New player added successfully");
+    alert("New player added successfully");
     location.assign("./index.html");
+    console.log(teamsInfo[keyNumber].players);
   });
-  
-};
+});
